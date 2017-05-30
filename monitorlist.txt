@@ -1,0 +1,6 @@
+#ignore/sftp-data/chroot/bim:SFTPArrivals@domain.com
+/sftp-data/chroot/input-1:Arrivals@domain.com
+/sftp-data/chroot/input-2:Arrivals@domain.com
+/user/test/incoming:test@domain.com
+
+
